@@ -1,1 +1,1 @@
-# js-and-dsa-freecode-camp
+# js-basic freecode-camp
